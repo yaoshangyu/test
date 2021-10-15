@@ -1,0 +1,18 @@
+{
+    "name": "yaoshangyu/test",
+    "description": "a test",
+    "autoload": {
+        "psr-4": {
+            "Yaoshangyu\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yaoshangyu",
+            "email": "liuyunzuiwan@163.com"
+        }
+    ],
+    "require": {
+        "topthink/think": "5.0.1"
+    }
+}
